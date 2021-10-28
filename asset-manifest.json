@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/my-glass-cv/static/css/main.9747df88.chunk.css",
+    "main.js": "/my-glass-cv/static/js/main.bd4f7e2f.chunk.js",
+    "main.js.map": "/my-glass-cv/static/js/main.bd4f7e2f.chunk.js.map",
+    "runtime-main.js": "/my-glass-cv/static/js/runtime-main.e3f06c99.js",
+    "runtime-main.js.map": "/my-glass-cv/static/js/runtime-main.e3f06c99.js.map",
+    "static/js/2.e15955b6.chunk.js": "/my-glass-cv/static/js/2.e15955b6.chunk.js",
+    "static/js/2.e15955b6.chunk.js.map": "/my-glass-cv/static/js/2.e15955b6.chunk.js.map",
+    "static/js/3.5e7ab9db.chunk.js": "/my-glass-cv/static/js/3.5e7ab9db.chunk.js",
+    "static/js/3.5e7ab9db.chunk.js.map": "/my-glass-cv/static/js/3.5e7ab9db.chunk.js.map",
+    "static/js/4.1f0dc597.chunk.js": "/my-glass-cv/static/js/4.1f0dc597.chunk.js",
+    "static/js/4.1f0dc597.chunk.js.map": "/my-glass-cv/static/js/4.1f0dc597.chunk.js.map",
+    "static/js/5.65c782df.chunk.js": "/my-glass-cv/static/js/5.65c782df.chunk.js",
+    "static/js/5.65c782df.chunk.js.map": "/my-glass-cv/static/js/5.65c782df.chunk.js.map",
+    "static/js/6.4963c9fb.chunk.js": "/my-glass-cv/static/js/6.4963c9fb.chunk.js",
+    "static/js/6.4963c9fb.chunk.js.map": "/my-glass-cv/static/js/6.4963c9fb.chunk.js.map",
+    "static/js/7.b2ca6978.chunk.js": "/my-glass-cv/static/js/7.b2ca6978.chunk.js",
+    "static/js/7.b2ca6978.chunk.js.map": "/my-glass-cv/static/js/7.b2ca6978.chunk.js.map",
+    "static/js/8.0a259bf9.chunk.js": "/my-glass-cv/static/js/8.0a259bf9.chunk.js",
+    "static/js/8.0a259bf9.chunk.js.map": "/my-glass-cv/static/js/8.0a259bf9.chunk.js.map",
+    "static/js/9.ad889a22.chunk.js": "/my-glass-cv/static/js/9.ad889a22.chunk.js",
+    "static/js/9.ad889a22.chunk.js.map": "/my-glass-cv/static/js/9.ad889a22.chunk.js.map",
+    "static/js/10.fe40da97.chunk.js": "/my-glass-cv/static/js/10.fe40da97.chunk.js",
+    "static/js/10.fe40da97.chunk.js.map": "/my-glass-cv/static/js/10.fe40da97.chunk.js.map",
+    "static/js/11.d70d87a9.chunk.js": "/my-glass-cv/static/js/11.d70d87a9.chunk.js",
+    "static/js/11.d70d87a9.chunk.js.map": "/my-glass-cv/static/js/11.d70d87a9.chunk.js.map",
+    "static/js/12.290e8e03.chunk.js": "/my-glass-cv/static/js/12.290e8e03.chunk.js",
+    "static/js/12.290e8e03.chunk.js.map": "/my-glass-cv/static/js/12.290e8e03.chunk.js.map",
+    "index.html": "/my-glass-cv/index.html",
+    "static/css/main.9747df88.chunk.css.map": "/my-glass-cv/static/css/main.9747df88.chunk.css.map",
+    "static/js/2.e15955b6.chunk.js.LICENSE.txt": "/my-glass-cv/static/js/2.e15955b6.chunk.js.LICENSE.txt",
+    "static/media/logo.a46ba8b6.jpg": "/my-glass-cv/static/media/logo.a46ba8b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3f06c99.js",
+    "static/js/2.e15955b6.chunk.js",
+    "static/css/main.9747df88.chunk.css",
+    "static/js/main.bd4f7e2f.chunk.js"
+  ]
+}
