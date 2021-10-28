@@ -1,0 +1,10 @@
+.site__left-side {
+  background-color: rgba(65, 161, 225, 0.59);
+  height: 100%;
+  border-radius: 32px;
+
+  //   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  //   border-radius: 32px;
+}

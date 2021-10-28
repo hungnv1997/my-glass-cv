@@ -1,0 +1,30 @@
+.app {
+  position: relative;
+  &__circle-1 {
+    width: 211px;
+    height: 211px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: #46ced7;
+    top: 19px;
+    left: 85%;
+    z-index: 1;
+  }
+  &__circle-2 {
+    width: 211px;
+    height: 211px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: blue;
+    top: 492px;
+    left: 53px;
+    z-index: 1;
+  }
+  &__wrapper {
+    position: absolute;
+    z-index: 10;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+  }
+}

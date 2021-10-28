@@ -1,0 +1,20 @@
+{
+  "select.vi": "Vietnamese",
+  "select.en": "English",
+
+  "contact.title": "Contact",
+  "contact.location": "Hoang Mai - Ha Noi",
+  "contact.gender": "Male",
+
+  "skills.title": "Skills",
+
+  "education.title": "Education",
+  "education.school": "Hanoi University of Science and Technology",
+  "education.major": "Education engineering of electrical",
+  "education.level": "Level: Good",
+  "education.gpa": "GPA: 2.68/4.0",
+
+  "experience.title": "Experience",
+
+  "projects.title": "Projects"
+}

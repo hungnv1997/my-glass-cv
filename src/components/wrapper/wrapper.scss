@@ -1,0 +1,11 @@
+.app__wrapper {
+  background-color: hsla(0, 0, 100, 0.5);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 32px;
+  // border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.wrapper-item__title {
+  color: hsla(204, 64%, 44%, 1);
+}

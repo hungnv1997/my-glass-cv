@@ -1,0 +1,74 @@
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(178, 219, 242, 0.8);
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.app {
+  position: relative;
+}
+
+.app__circle-1 {
+  width: 211px;
+  height: 211px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: #46ced7;
+  top: 19px;
+  left: 85%;
+  z-index: 1;
+}
+
+.app__circle-2 {
+  width: 211px;
+  height: 211px;
+  position: absolute;
+  border-radius: 50%;
+  background-color: blue;
+  top: 492px;
+  left: 53px;
+  z-index: 1;
+}
+
+.app__wrapper {
+  position: absolute;
+  z-index: 10;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+}
+
+.site__ava {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  border: 6px solid white;
+}
+
+.site__left-side {
+  background-color: rgba(65, 161, 225, 0.59);
+  height: 100%;
+  border-radius: 32px;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.app__wrapper {
+  background-color: rgba(255, 255, 255, 0.5);
+  -webkit-box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+          box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 32px;
+}
+
+.wrapper-item__title {
+  color: #287fb8;
+}
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,20 @@
+{
+  "select.vi": "Tiếng Việt",
+  "select.en": "Tiếng Anh",
+
+  "contact.title": "Liên hệ",
+  "contact.location": "Hoàng Mai - Hà Nội",
+  "contact.gender": "Nam",
+
+  "skills.title": "Kĩ năng",
+
+  "education.title": "Học tập",
+  "education.school": "Trường Đại học Bách Khoa Hà Nội",
+  "education.major": "Sư phạm kĩ thuật - Điện tử",
+  "education.level": "Tốt nghiệp loại khá",
+  "education.gpa": "GPA: 2.68/4.0",
+
+  "experience.title": "Kinh nghiệm",
+
+  "projects.title": "Dự án"
+}

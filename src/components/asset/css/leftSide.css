@@ -1,0 +1,8 @@
+.site__left-side {
+  background-color: rgba(65, 161, 225, 0.59);
+  height: 100%;
+  border-radius: 32px;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+/*# sourceMappingURL=leftSide.css.map */
